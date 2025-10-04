@@ -20,7 +20,7 @@
 
 <ol>
   <li><b>Download & Install</b><br>
-    Download the EXE from the <code>dist</code> folder after building, or get it from the author.<br>
+    Download the EXE and the app_icon from the and place inside a folder
     No installation needed. Just double-click to run.
   </li>
   <li><b>Start WhatsApp Desktop</b><br>
